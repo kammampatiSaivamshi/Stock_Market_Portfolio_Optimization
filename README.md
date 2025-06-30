@@ -34,7 +34,7 @@ This project aims to **optimize a stock market portfolio** by selecting the best
 
 ### 🙋‍♂️ Author
 
-**Vamshi K**
+**Kammampati Saivamshi**
 *Aspiring Data Scientist*
 📫 Reach me on [LinkedIn](https://www.linkedin.com)
 
