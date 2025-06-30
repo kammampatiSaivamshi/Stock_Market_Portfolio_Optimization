@@ -30,5 +30,13 @@ This project aims to **optimize a stock market portfolio** by selecting the best
    * `yfinance` for fetching stock data
    * `datetime` for handling date ranges
    * Additional libraries for warnings suppression and visualization
+  
+
+### 🙋‍♂️ Author
+
+**Vamshi K**
+*Aspiring Data Scientist*
+📫 Reach me on [LinkedIn](https://www.linkedin.com)
+
 
 
