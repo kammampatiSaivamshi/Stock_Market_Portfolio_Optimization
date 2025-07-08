@@ -1,11 +1,11 @@
 # Stock_Market_Portfolio_Optimization
 The uploaded project is titled **"Stock Market Portfolio Optimization with Python"**. It focuses on applying financial analysis and optimization techniques to construct an ideal stock portfolio. Here’s a summary of its objectives and methodology:
 
-### **Project Description**
+### Project Description
 
 This project aims to **optimize a stock market portfolio** by selecting the best combination of stocks to **maximize returns** while **minimizing risk**. The approach leverages **Modern Portfolio Theory (MPT)** and is implemented in Python.
 
-### **Key Components:**
+### Key Components:
 
 1. **Objective**:
 
@@ -32,11 +32,11 @@ This project aims to **optimize a stock market portfolio** by selecting the best
    * Additional libraries for warnings suppression and visualization
   
 
-### 🙋‍♂️ Author
+###  Author
 
 **Kammampati Saivamshi**
 *Aspiring Data Scientist*
-📫 Reach me on [LinkedIn](https://www.linkedin.com)
+Reach me on [LinkedIn](https://www.linkedin.com)
 
 
 
